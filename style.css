@@ -1,0 +1,54 @@
+* {
+  margin: 0px;
+}
+
+header {
+  background-color: dodgerblue;
+  background-image: url(img/pattern.png);
+  height: 175px;
+}
+
+#titolo {
+  margin-top: 20px;
+  margin-right: 1000px;
+  margin-left: 5px;
+}
+
+#logo {
+  width: 300px;
+  padding-top: 80px;
+  margin-top: 5px;
+}
+
+.suggerimenti {
+  opacity: 0.4;
+  margin-left: 5px;
+}
+
+.booleaner {
+  color: darkturquoise;
+}
+
+.immagine-uomo {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.crediti {
+  margin-left: 5px;
+}
+
+.testo {
+  font-weight: 600;
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.testo-evidenziato {
+  background-color: gold;
+}
+
+li {
+  font-weight: 600;
+}

@@ -10,7 +10,6 @@ header {
 
 #titolo {
   margin-top: 20px;
-  margin-right: 1000px;
   margin-left: 5px;
 }
 
@@ -29,7 +28,7 @@ header {
   color: darkturquoise;
 }
 
-.immagine-uomo {
+.immagine {
   margin-top: 10px;
   margin-left: 5px;
 }
@@ -41,7 +40,7 @@ header {
 .testo {
   font-weight: 600;
   margin-left: 5px;
-  margin-top: 10px;
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
@@ -51,4 +50,48 @@ header {
 
 li {
   font-weight: 600;
+}
+
+table {
+  margin-top: 30px;
+  text-align: left;
+  background-color: deepskyblue;
+  border-spacing: 0px;
+  width: 100%;
+}
+
+thead {
+  background-color: darkcyan;
+}
+
+#riga-bianca {
+  background-color: white;
+}
+
+.col, .coll {
+  width: 25%;
+  color: white;
+}
+
+.monitor {
+  background-image: url(img/monitor.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  margin: 0px;
+  width: 280px;
+  height: 200px;
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+.graph {
+  background-image: url(img/graph.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  margin: 0px;
+  width: 280px;
+  height: 200px;
+  text-align: center;
+  padding-top: 10px;
 }
